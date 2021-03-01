@@ -1,0 +1,514 @@
+.navbar {
+  background-color: #28282e;
+}
+
+.brand {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.container {
+  display: block;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
+.body {
+  background-color: #28282e;
+}
+
+.vpn-section {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100vw;
+  height: 50vh;
+  padding-right: 0px;
+  padding-left: 0px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  line-height: 48px;
+}
+
+.vpn-text-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100vw;
+  padding-right: 0px;
+  padding-left: 56px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.vpn-text {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  direction: ltr;
+  font-family: Inconsolata, monospace;
+  color: #fff;
+  font-size: 12px;
+  line-height: 48px;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 100px;
+  text-transform: uppercase;
+}
+
+.about-section {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100vh;
+  background-color: transparent;
+}
+
+.about-left-area {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 50%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.about-right-area {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 50%;
+  padding-right: 140px;
+  padding-left: 140px;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.about-ani-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.about-txt {
+  margin-bottom: 0px;
+  font-family: Lato, sans-serif;
+  color: #fff;
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 100;
+}
+
+.manifest-section {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100vw;
+  height: auto;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #fff;
+}
+
+.manifest-text-container {
+  padding: 200px;
+}
+
+.manifest-txt {
+  font-family: Inconsolata, monospace;
+  font-size: 40px;
+  line-height: 100px;
+  font-weight: 400;
+}
+
+.footer-section {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: auto;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #fff;
+}
+
+.footer-link-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  padding-left: 32px;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+}
+
+.contact-impressum-link {
+  font-family: Inter, sans-serif;
+  color: #28282e;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+.mvl-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 32px;
+  padding-right: 32px;
+  padding-bottom: 32px;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+}
+
+.mwltxt {
+  padding-right: 4px;
+  font-family: Inter, sans-serif;
+  color: #28282e;
+  font-size: 12px;
+  text-align: right;
+}
+
+.heart-wrapper {
+  padding-bottom: 0px;
+}
+
+.body-2 {
+  background-color: #28282e;
+}
+
+.contact-section {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100vh;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.contact-container {
+  margin-bottom: 60px;
+}
+
+.contact-txt-01 {
+  padding-bottom: 20px;
+  font-family: Inconsolata, monospace;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.pgp-key-contact {
+  font-family: Inconsolata, monospace;
+  color: #fff;
+  text-decoration: none;
+}
+
+.spacer {
+  height: 26px;
+}
+
+.conatct-txt-02 {
+  font-family: Inconsolata, monospace;
+  color: #fff;
+}
+
+.impressum-txt {
+  font-family: Inconsolata, monospace;
+  color: #fff;
+  font-weight: 400;
+}
+
+.devideline {
+  height: 1px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  background-color: #353535;
+}
+
+.manifesto-tag {
+  display: inline-block;
+  font-family: Inter, sans-serif;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 991px) {
+  .brand {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+
+  .container {
+    margin-left: 40px;
+  }
+
+  .vpn-section {
+    padding-left: 0px;
+  }
+
+  .vpn-text-wrapper {
+    padding-left: 0px;
+  }
+
+  .vpn-text {
+    padding-left: 50px;
+    letter-spacing: 90px;
+  }
+
+  .about-section {
+    height: auto;
+    margin-bottom: 100px;
+  }
+
+  .about-left-area {
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+  }
+
+  .about-right-area {
+    padding-right: 0px;
+    padding-left: 0px;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+  }
+
+  .about-txt-wrapper {
+    padding-right: 40px;
+  }
+
+  .about-txt {
+    font-size: 30px;
+    line-height: 50px;
+  }
+
+  .manifest-text-container {
+    padding: 32px;
+  }
+
+  .manifest-txt {
+    font-size: 39px;
+    line-height: 70px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .brand {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+
+  .vpn-text-wrapper {
+    padding-left: 0px;
+  }
+
+  .vpn-text {
+    padding-left: 40px;
+    letter-spacing: 50px;
+  }
+
+  .about-section {
+    display: block;
+    height: auto;
+    margin-bottom: 60px;
+  }
+
+  .about-left-area {
+    display: block;
+    margin-left: 20px;
+  }
+
+  .about-right-area {
+    width: 100%;
+  }
+
+  .about-ani-wrapper {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  .about-txt-wrapper {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  .manifest-section {
+    height: auto;
+  }
+
+  .manifest-text-container {
+    padding-right: 16px;
+    padding-left: 16px;
+  }
+
+  .contact-txt-wrapper-01 {
+    padding-right: 16px;
+    padding-left: 16px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .brand {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    padding-left: 0px;
+  }
+
+  .container {
+    margin-right: 0px;
+    margin-left: 16px;
+  }
+
+  .vpn-section {
+    height: 400px;
+    margin-bottom: 60px;
+  }
+
+  .vpn-text-wrapper {
+    padding-right: 0px;
+    padding-left: 4px;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  .vpn-text {
+    width: 100vw;
+    padding-right: 0px;
+    padding-left: 0px;
+    text-align: center;
+    letter-spacing: 40px;
+  }
+
+  .about-section {
+    height: auto;
+    margin-bottom: 140px;
+  }
+
+  .about-left-area {
+    width: 75%;
+    margin-bottom: 32px;
+    margin-left: 16px;
+  }
+
+  .about-txt-wrapper {
+    padding-right: 16px;
+    padding-left: 16px;
+  }
+
+  .about-txt {
+    font-size: 20px;
+    line-height: 40px;
+    font-weight: 300;
+  }
+
+  .manifest-section {
+    display: block;
+    height: 540px;
+  }
+
+  .manifest-text-container {
+    padding-right: 16px;
+    padding-left: 16px;
+  }
+
+  .manifest-txt {
+    font-size: 16px;
+    line-height: 32px;
+  }
+
+  .footer-section {
+    display: block;
+  }
+
+  .footer-link-wrapper {
+    padding-bottom: 16px;
+    padding-left: 16px;
+  }
+
+  .mvl-wrapper {
+    padding-top: 0px;
+    padding-left: 16px;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+  }
+
+  .contact-txt-wrapper-01 {
+    padding-right: 16px;
+    padding-left: 16px;
+  }
+
+  .conatct-txt-02 {
+    color: #fff;
+  }
+
+  .impressum-wrapper {
+    padding-right: 16px;
+    padding-left: 16px;
+  }
+
+  .link-block {
+    padding-bottom: 16px;
+    padding-left: 16px;
+  }
+
+  .manifesto-tag {
+    font-size: 12px;
+  }
+}
+
